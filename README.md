@@ -5,8 +5,8 @@ Este projeto foi desenvolvido com o objetivo de analisar a flutuação dos sinis
 ## 🗂 Estrutura do Projeto
 
 O projeto está organizado em três pastas principais:
-- [Data](https://www.openai.com) – **Bases de dados brutos** e **Bases de dados ajustados após tratamento**
-- [Tratamento das bases](https://www.openai.com) – Notebook python para a ajustes/tratamento das bases de dados (Cadastro e Sinistro)
+- [Data](https://www.openai.com) – **Bases de dados brutos**, **Bases de dados ajustados após tratamento** e **Compilado de Cetipos**
+- [Tratamento das bases](https://www.openai.com) – Notebook python para a ajustes/tratamento das bases de dados
 - [One Page Report](https://www.openai.com) – Arquivo .pbix e arquivo .pdf com o dashboard final e arquivo .pdf com principais pontos
 
 ## 🛠 Tecnologias Utilizadas
@@ -14,7 +14,7 @@ O projeto está organizado em três pastas principais:
 - **Python, Pandas e Numpy**
 - **Google Colab e Google Drive**
 - **Power Query, Noções de SQL e Linguagem DAX**
-- **Power BI**
+- **Power BI e Excel**
 
 ## 📈 Indicadores Criados
 
