@@ -1,13 +1,13 @@
 # 📊 One Page Report
 
-Este projeto foi desenvolvido com o objetivo de analisar a flutuação dos sinistros em saúde suplementar da empresa FABRIC (ramo industrial). O projeto consistiu no tratamento de duas bases de dados para o desenvolvimento de um **dashboard one page** no Power BI.
+Este projeto foi desenvolvido com o objetivo de analisar a flutuação dos sinistros em saúde suplementar da empresa FABRIC (ramo industrial). O projeto consistiu no tratamento de duas bases de dados para o desenvolvimento de um **Dashboard One Page** no Power BI.
 
 ## 🗂 Estrutura do Projeto
 
 O projeto está organizado em três pastas principais:
-- [Data](https://www.openai.com) – **Bases de dados brutos**, **Bases de dados ajustados após tratamento** e **Compilado de Cetipos**
-- [Tratamento das bases](https://www.openai.com) – Notebook python para a ajustes/tratamento das bases de dados
-- [One Page Report](https://www.openai.com) – Arquivo .pbix e arquivo .pdf com o dashboard final e arquivo .pdf com principais pontos
+- [Data](https://github.com/pah-10/One_Page_Fabric/tree/main/Data) – Bases de dados brutos, Bases de dados ajustados após tratamento e Compilado de Cetipos
+- [Tratamento das bases](https://github.com/pah-10/One_Page_Fabric/tree/main/Tratamento%20das%20bases) – Notebook python para a ajustes/tratamento das bases de dados
+- [One Page Report](https://github.com/pah-10/One_Page_Fabric/tree/main/One%20Page%20Report) – Arquivo .pbix e arquivo .pdf com o dashboard final e arquivo .pdf com principais pontos
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ O projeto está organizado em três pastas principais:
 
 ## 🎯 Acessos
 
-- One Page Report (Power BI) [Clique aqui]([https://www.openai.com](https://app.powerbi.com/links/ZqrTPLdz4H?ctid=ee8708f0-1538-4fed-ad44-d16297562466&pbi_source=linkShare)
-- One Page Report (.PDF) [Clique aqui](https://www.openai.com)
-- Principais Pontos (.PDF) [Clique aqui](https://www.openai.com)
+- One Page Report (Power BI) [Clique aqui](https://app.powerbi.com/links/ZqrTPLdz4H?ctid=ee8708f0-1538-4fed-ad44-d16297562466&pbi_source=linkShare)
+- One Page Report (.PDF) [Clique aqui](https://github.com/pah-10/One_Page_Fabric/blob/main/One%20Page%20Report/One_Page_Report.pdf)
+- Principais Pontos (.PDF) [Clique aqui](https://github.com/pah-10/One_Page_Fabric/blob/main/One%20Page%20Report/Principais%20Pontos.pdf)
 ---
