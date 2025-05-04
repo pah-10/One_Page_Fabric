@@ -25,6 +25,7 @@ O projeto está organizado em três pastas principais:
 
 ## 🎯 Acessos
 
-- One Page Report Power BI [Clique aqui]([https://www.openai.com](https://app.powerbi.com/links/ZqrTPLdz4H?ctid=ee8708f0-1538-4fed-ad44-d16297562466&pbi_source=linkShare)
-- One Page Report .PDF [Clique aqui](https://www.openai.com)
+- One Page Report (Power BI) [Clique aqui]([https://www.openai.com](https://app.powerbi.com/links/ZqrTPLdz4H?ctid=ee8708f0-1538-4fed-ad44-d16297562466&pbi_source=linkShare)
+- One Page Report (.PDF) [Clique aqui](https://www.openai.com)
+- Principais Pontos (.PDF) [Clique aqui](https://www.openai.com)
 ---
